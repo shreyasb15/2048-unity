@@ -1042,6 +1042,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6eedc584cc80bc44db53622281189611, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tilePrefab: {fileID: -3125675381995045721, guid: 3daf36784fd9df948b764b60add1b169, type: 3}
+  tileStates:
+  - {fileID: 11400000, guid: 95814ffcf3f3a584f83162673af7ce6e, type: 2}
+  - {fileID: 11400000, guid: df9e50e09bc316641a62e9996963838e, type: 2}
+  - {fileID: 11400000, guid: 44bba5404f30a5e43aea2d31ee32aa3f, type: 2}
+  - {fileID: 11400000, guid: adde68e9033bff344a8e081937860115, type: 2}
+  - {fileID: 11400000, guid: 188b7c69975b4d548b87c050fb20735a, type: 2}
+  - {fileID: 11400000, guid: 86114cc03f4590e439b7993129e6fc2b, type: 2}
+  - {fileID: 11400000, guid: 16401f96c1c8ebe489aeee4fc6548dae, type: 2}
+  - {fileID: 11400000, guid: e65223f995056d643bcc03289237d7ec, type: 2}
+  - {fileID: 11400000, guid: 2f2247a79968f5a48ac3f7f18937ecde, type: 2}
+  - {fileID: 11400000, guid: 1b47219d5e51ca94bbb8100664be36f2, type: 2}
+  - {fileID: 11400000, guid: 0c1f769d437f35d47a6a39fb867fad5e, type: 2}
 --- !u!1 &1009862234
 GameObject:
   m_ObjectHideFlags: 0
